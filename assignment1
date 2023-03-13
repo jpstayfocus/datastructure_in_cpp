@@ -39,6 +39,7 @@ The class has a private member variable 'data', which is a vector of type T.
 
 
 */
+
 template <typename T>
 class LargeType {
 public:
