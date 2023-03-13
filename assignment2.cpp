@@ -69,7 +69,7 @@ string Expression::inToPost() {
 
     stack<char> s;
 
-    //string postfix = ""; // initialize postfix as empty string (remove this in comment will crash the pprogram
+    string postfix = ""; // initialize postfix as empty string (remove this in comment will crash the program
 
     for (int i = 0; i<infix.length(); i++) {
 
